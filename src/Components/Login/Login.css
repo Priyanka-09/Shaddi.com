@@ -1,0 +1,18 @@
+
+.form-group{
+    padding: 10px;
+}
+.loginForm{
+    padding: 10%;
+}
+#loginFormield{
+    border: 1px solid grey;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+
+}
+#loginBtn{
+    float: right;
+}
